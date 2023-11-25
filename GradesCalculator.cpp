@@ -22,10 +22,6 @@ void printGradesInWords(double grade)
 	{
 		std::cout << "Excellent\n";
 	}
-	else
-	{
-		std::cout << "Invalid grade. Must be between 2.00 and 6.00\n";
-	}
 }
 
 
