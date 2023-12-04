@@ -42,7 +42,7 @@ int main()
     }
   
   //Call the areEqual function to check if two arrays are equal
-    if (areEqual (arr1,size1,arr2,size2))
+    if (areEqual (arr1,size1,arr2,size2)
     {
         std::cout << "Equal";
     }
